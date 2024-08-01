@@ -1,0 +1,6 @@
+opencv-contrib-python
+requests
+cvlib
+tensorflow
+matplotlib
+opencv-python ultralytics
