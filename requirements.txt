@@ -3,4 +3,5 @@ requests
 cvlib
 tensorflow
 matplotlib
-opencv-python ultralytics
+opencv-python 
+ultralytics
